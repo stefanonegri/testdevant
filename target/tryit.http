@@ -1,0 +1,12 @@
+/*
+### Try Resource: 'GET /data'
+
+*/
+
+/*
+
+
+*/
+###
+GET http://localhost:9090/countries/data
+
